@@ -1,4 +1,4 @@
 # Video-Edits
 
 Videos Compressed For Whatsapp Status Using Handbrake With Web Optimised Format under  2400p x 1080p
-& Bit-rate
+& Bit-rate of 1600
